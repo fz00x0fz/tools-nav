@@ -1,20 +1,20 @@
 # title of website
-title: %NAME%
+title: tools-nav
 
 # description of website
-description: %ACTOR%'s navigation site
+description: fz00x0fz's navigation site
 
 # favicon of website
-favicon: "https://github.com/%ACTOR%.png?size=40"
+favicon: "https://github.com/fz00x0fz.png?size=40"
 
 # your website url
-url: https://%ACTOR%.github.io/%NAME%/
+url: https://fz00x0fz.github.io/tools-nav/
 
 # github profile url
-github: "https://github.com/%ACTOR%"
+github: "https://github.com/fz00x0fz"
 
 # footer message
-footer: © 2021-2021 @%ACTOR%
+footer: © 2021-2021 @fz00x0fz
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
